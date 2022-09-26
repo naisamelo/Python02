@@ -8,3 +8,4 @@ elif nome in 'Ana Claúdia Jéssica Juliana':
 else:
     print('Seu nome é bem normal')
 print('Tenha um bom dia, {}!'.format(nome))
+
