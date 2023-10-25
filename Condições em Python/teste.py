@@ -5,5 +5,4 @@ for i in nomes:
 else:
     print("Todos os nomes foram listados com sucesso!")
 
-lista = ['Python','Academy']
-print(lista)
+
