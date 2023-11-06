@@ -1,8 +1,7 @@
-nomes = ['Alana', 'Paloma', 'Luana', 'Eduarda']
-
-for i in nomes:
-    print(i)
+n = int(input("Digite um número para ver a tabuada: "))
+if 1 < n > 10:
+    print("Número Inválido! Digite novamente")
+    n = int(input("Digite novamente"))
 else:
-    print("Todos os nomes foram listados com sucesso!")
-
-
+    for c in range(1, 11):
+        print("{} x {} = {}".format(n, c, n*c))
