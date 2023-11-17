@@ -9,5 +9,5 @@ def realizar_sorteio(nomes):
     print(f"O sorteado é: {sorteado}")
     print("Sorteio concluído!")
 
-lista_de_nomes = ["Ilos", "Vicente", "Naisa", "Edimar", "Edilmara", "Adriano", "Adriano"]
+lista_de_nomes = ["Ilos", "Vicente", "Naisa", "Edimar", "Edilmara", "Adriano", "Ketrin"]
 realizar_sorteio(lista_de_nomes)
